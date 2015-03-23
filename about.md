@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Wenig aber gua'd
 
-### More Information
+### ***&exist;td&int;amdouni&infin;***
 
-A place to include any other types of information that you'd like to include about yourself.
+Ich liebe die Herausforderung, genieße es neue Dinge & Challenges heranzunehmen. Ich bin eigensinnig, kompetent, flexibel und gedeiht neues zu erlernen.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@](mailto:tdamdouni@me.com)
