@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die Geburt eins Blogs
+title: Die Geburt eines Blogs
 ---
 
 #Die Geburt eines Blogs
