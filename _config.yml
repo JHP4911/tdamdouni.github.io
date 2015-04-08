@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: tdamdouni
+name: @tdamdouni
 
 # Short bio or description (displayed in the header)
 description: IT'ler aus Minga
@@ -22,7 +22,7 @@ avatar: http://www.gravatar.com/avatar/014e33969b0d1fad2e7445febdad25e1.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: tdamdouni@me.com
+  email: itdamdouni@gmail.com
   facebook: tdamdouni
   flickr:
   github: tdamdouni
