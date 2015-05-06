@@ -4,40 +4,38 @@ title: Projects
 permalink: /done/
 ---
 
-# Projects i worked on:
-
 ...
 
-## @TUM
-
+# @TUM
+___
 at the Munich Technical University
 
-### DAB: Digital Audio Broadcasting
-
+## DAB: Digital Audio Broadcasting
+___
 Micro controller programming in assembly for a digital streaming radio.
 
-### Software Engineering
-
+## Software Engineering
+___
 - Project Management
 - Agile Software Development
 - Reusable Design Patterns
 - iOS Programming
 - Programming Trends
 
-### Discrete Optimization
-
+## Discrete Optimization
+___
 It's all about the Good-Old Algorithms, that we optimize in order to accelerate the future. howTo?
 
-## In Cooperation with EADS
-
+# In Cooperation with EADS
+___
 iArmed: an iOS Application for Experts-Assistance through Aircraft-Maintenance-Sessions
 
-## In Cooperation with Serapiondev
-
+# In Cooperation with Serapiondev
+___
 A deep Research on Adaptivity in Serious Games
 
-## As Freelancer
-
+# As Freelancer
+___
 - Seminare Assistance
 - Web Desig
 - IT Consulting
