@@ -12,4 +12,4 @@ Ich liebe die Herausforderung, genieße es neue Dinge & Challenges heranzunehmen
 
 ### Contact me
 
-[@](mailto:tdamdouni@me.com)
+[@](mailto:itdamdouni@gmail.com)
