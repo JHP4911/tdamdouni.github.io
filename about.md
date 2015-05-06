@@ -8,7 +8,7 @@ Wenig aber gua'd
 
 ### ***&exist;td&int;amdouni&infin;***
 
-Ich liebe die Herausforderung, genieße es neue Dinge & Challenges heranzunehmen. Ich bin eigensinnig, kompetent, flexibel und gedeiht neues zu erlernen.
+> Ich liebe die Herausforderung, genieße es neue Dinge & Challenges heranzunehmen. Ich bin eigensinnig, kompetent, flexibel und gedeiht neues zu erlernen.
 
 ### About
 
@@ -16,7 +16,7 @@ Ich liebe die Herausforderung, genieße es neue Dinge & Challenges heranzunehmen
 
 ### Disclaimer 
 
-This site is aimed to ...  
+> This site is aimed to ...  
 
 ### Impressum
 
