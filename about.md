@@ -14,6 +14,8 @@ Wenig aber gua'd
 
 [Mailme](mailto:itdamdouni@gmail.com)
 
+<a href='https://alpha.app.net/tdamdouni' class='adn-button' target='_blank' data-type='follow' data-width='277' data-height='27' data-user-id='@tdamdouni' data-show-username='1' rel='me'>Follow me on App.net</a><script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//d2zh9g63fcvyrq.cloudfront.net/adn.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'adn-button-js'));</script>
+
 <script async src="https://static.medium.com/embed.js"></script><a class="m-profile" href="https://medium.com/@tdamdouni">Taha Dhiaeddine Amdouni</a>
 
 ### Disclaimer 
