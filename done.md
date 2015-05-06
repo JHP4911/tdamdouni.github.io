@@ -33,17 +33,20 @@ ___
 ## Discrete Optimization
 ___
 
->It's all about the Good-Old Algorithms, that we optimize in order to accelerate the future. howTo?
+>It's all about the Good-Old Algorithms, that we optimize in order to accelerate the future. how to?
+
 
 # In Cooperation with EADS
 ___
 
 >iArmed: an iOS Application for Experts-Assistance through Aircraft-Maintenance-Sessions
 
+
 # In Cooperation with Serapiondev
 ___
 
 >A deep Research on Adaptivity in Serious Games
+
 
 # As Freelancer
 ___
