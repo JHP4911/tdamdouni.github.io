@@ -10,6 +10,14 @@ Wenig aber gua'd
 
 Ich liebe die Herausforderung, genieße es neue Dinge & Challenges heranzunehmen. Ich bin eigensinnig, kompetent, flexibel und gedeiht neues zu erlernen.
 
-### Contact me
+### @me
 
 [@](mailto:itdamdouni@gmail.com)
+
+### Disclaimer 
+
+This site is aimed to ...  
+
+### Impressum
+
+&sect;
