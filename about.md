@@ -14,6 +14,10 @@ Wenig aber gua'd
 
 [@me](mailto:itdamdouni@gmail.com)
 
+@Medium.com
+
+<script async src="https://static.medium.com/embed.js"></script><a class="m-profile" href="https://medium.com/@tdamdouni">Taha Dhiaeddine Amdouni</a>
+
 ### Disclaimer 
 
 > This site is aimed to ...  
