@@ -1,10 +1,8 @@
-
 ---
 layout: page
 title: Trending Future
 permalink: /future/
 ---
-
 
 Here I wanna post my findings on trending notions that rise our future experience.
 
