@@ -12,9 +12,7 @@ Wenig aber gua'd
 
 ### About
 
-[@me](mailto:itdamdouni@gmail.com)
-
-@Medium.com
+[Mailme](mailto:itdamdouni@gmail.com)
 
 <script async src="https://static.medium.com/embed.js"></script><a class="m-profile" href="https://medium.com/@tdamdouni">Taha Dhiaeddine Amdouni</a>
 
