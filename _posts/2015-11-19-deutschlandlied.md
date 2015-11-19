@@ -6,10 +6,6 @@ date:       2015-11-19 16:14:36
 tags:       fun 
 ---
 
-layout: post
-title: Deutschlandlied
-date: 2015-11-19 16:10
----
 Deutschlandlied
 
 >Einigkeit und Recht und Freiheit
