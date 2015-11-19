@@ -6,8 +6,6 @@ date:       2015-11-19 16:14:36
 tags:       fun 
 ---
 
-Deutschlandlied
-
 >Einigkeit und Recht und Freiheit
 
 >Für das deutsche Vaterland!
