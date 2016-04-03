@@ -4,21 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Wenig aber gua'd
+### About
 
-### ***&exist; td&int;amdouni != &infin;***
+***&exist; td&int;amdouni != &infin;***?  
+**Mia san mia**!
 
 > Ich liebe die Herausforderung, genieße es neue Dinge & Challenges heranzunehmen. Ich bin eigensinnig, kompetent, flexibel und gedeiht neues zu erlernen.
 
-### About
+### Contact
 
-[Mail me](mailto:itdamdouni@gmail.com)
-
+> [Mail me](mailto:itdamdouni@gmail.com)
 
 ### Disclaimer 
 
-> ...  
+> ...
 
 ### Impressum
 
-&sect;
+> &sect;
