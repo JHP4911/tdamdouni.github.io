@@ -4,16 +4,15 @@ title: Trending Future
 permalink: /future/
 ---
 
-> Here I wanna post my findings on trending notions that rise our future experience.
+> Here I wanna post my findings on trending notions that made us IT-addicted, Digital-wise and rise our future experience.
 
 This would involve:
 
-- The arise out of Mobile World
-- Mobile App Reviews
-- Automation Through Workflows
-- Cloud Services & Security
-- IT Consulting
-- Software Engineering Trends
-- The future of Automobile
-
-& other keywords/notions that I enjoyed and made me IT-addicted and Digital-wise.
+- The World going `mobile`
+- `iOS` App Reviews
+- `Workflow`s for more Automation
+- `IoT` Internet of Things
+- `Cloud` Services & Security
+- `IT` Consulting
+- `Agile` Software Engineering
+- `Automotive` future
