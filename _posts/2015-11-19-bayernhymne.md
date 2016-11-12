@@ -7,16 +7,10 @@ tags:       fun
 ---
 
 > Gott mit dir, du Land der Bayern,
-> Heimaterde, Vaterland!
-
-> Über deinen weiten Gauen
-
-> walte Seine Segenshand!
-
-> |: Er behüte deine Fluren,
-
-> schirme deiner Städte Bau
-
-> und erhalte dir die Farben
-
-> deines Himmels, weiß und blau! :|
+> Heimaterde, Vaterland!  
+> Über deinen weiten Gauen  
+> walte Seine Segenshand!  
+> |: Er behüte deine Fluren,  
+> schirme deiner Städte Bau  
+> und erhalte dir die Farben  
+> deines Himmels, weiß und blau! :|  
