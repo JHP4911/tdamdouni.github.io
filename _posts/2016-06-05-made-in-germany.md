@@ -6,8 +6,6 @@ date:       2016-06-05 10:17:33
 tags:       tech, engineering, testing, quality 
 ---
 
-# Made in Germany vs. Made in China
-
 ## Engineering satisfaction leads to high quality submission
 
 Made in Germany stands for quality, trust and innovation. These engineering standards won't be able to achieve without good engineering management and well-adapted evolution process.

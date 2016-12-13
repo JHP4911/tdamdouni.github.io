@@ -6,9 +6,6 @@ date:       2016-01-01 00:01:08
 tags:       web, markdown, cms, blogging 
 ---
 
-
-# Personal Home Page Re-engineered
-
 ## Markdown: back to .txt era
 
 Nowadays, dealing with many unreadable [LOC](http://en.m.wikipedia.org/wiki/Source_lines_of_code) becomes an inconvenient even for publisher to keep creative and productive, and to provide the web over and over with new informative content.
