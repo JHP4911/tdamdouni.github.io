@@ -17,7 +17,7 @@ It's easy to learn, low cost to process and open-sourced.
 
 ## About.me Notions
 
-So the trending in the 21^st century is no more to have a Personal Home Page, which maybe got never updated after its first release, but to have an about.me *WebID-Digital-Card* of you or a brandme.io or a vizualize.me.
+So the trending in the 21<sup>st</sup> century is no more to have a Personal Home Page, which maybe got never updated after its first release, but to have an about.me *WebID-Digital-Card* of you or a brandme.io or a vizualize.me.
 
 Afterwards, if  you wanna provide more content of you, web users should better blog, in a way I wanna describe further.
 
