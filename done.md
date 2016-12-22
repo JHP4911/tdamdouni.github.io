@@ -9,49 +9,44 @@ permalink: /done/
 # @TUM
 ___
 
->at the Munich Technical University
+Projects i worked on at the Munich Technical University.
 
 ## DAB: Digital Audio Broadcasting
 ___
 
->Micro controller programming in assembly for a digital streaming Radio.
+Micro controller programming in assembly for a digital streaming Radio.
+
+> TUM - Chair of Rechnertechnik und Rechnerorganisation (Prof. Dr. Arndt Bode)
+
+## V-Modell XT
+___
+
+Tool design and implementation in C# for XML serialisation in OpenXML of the DSL-Model.
+
+> TUM - Chair of Software- & Systems Engineering Research Group (Prof. Dr. Manfred Broy)
 
 ## Car2Car-Communication
 ___
 
->C2X Communication Research (IDP Project MMK-BMW)
+C2X — Car-to-Infrastructure Communication — basierte Kontextbewertung zur vorausschauenden Unterstützung des Fahrers
 
-## Software Engineering
+> a cooperation between TUM - Chair of Human-Machine Communication (Prof. Dr. Gerhard Rigoll) & BMW
+
+## iArmed
 ___
 
->- Project Management
->- Agile Software Development
->- Reusable Design Patterns
->- iOS Programming
->- Programming Trends
+Design & Implementation of an iOS Application for Experts-Assistance through Aircraft-Maintenance-Sessions
 
-## Discrete Optimization
+> a cooperation between TUM - Chair of Applied Software Engineering (Prof. Dr. Bernd Brügge) & EADS.
+
+## Adaptivity in Serious Games
 ___
 
->It's all about the Good-Old Algorithms, that we optimize in order to accelerate the future. how to?
+A deep Research on Adaptivity in Serious Games.
 
+> a cooperation between TUM - Chair of Applied Software Engineering (Prof. Dr. Bernd Brügge) & USM GmbH.
 
-# In Cooperation with EADS
+	>> Thesis: Evaluation of the Impact of Micro-Adaptivity in Serious Games.
+
+## Tablets in Bank Branches
 ___
-
->iArmed: an iOS Application for Experts-Assistance through Aircraft-Maintenance-Sessions
-
-
-# In Cooperation with Serapiondev
-___
-
->A deep Research on Adaptivity in Serious Games
-
-
-# As Freelancer
-___
-
->- Seminare Assistance
->- Web Desig
->- IT Consulting
->- Automobile
