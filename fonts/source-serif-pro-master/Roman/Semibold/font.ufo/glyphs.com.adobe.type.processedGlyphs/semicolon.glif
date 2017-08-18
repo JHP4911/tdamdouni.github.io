@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="semicolon">
+  <advance width="300" />
+  <unicode hex="003B" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="150" y="342" />
+      <point x="195" y="342" />
+      <point x="230" y="378" />
+      <point type="curve" x="230" y="422" />
+      <point x="230" y="466" />
+      <point x="195" y="503" />
+      <point type="curve" x="150" y="503" />
+      <point x="105" y="503" />
+      <point x="70" y="466" />
+      <point type="curve" x="70" y="422" />
+      <point x="70" y="378" />
+      <point x="105" y="342" />
+    </contour>
+    <contour>
+      <point type="line" x="152" y="-30" />
+      <point x="128" y="-95" />
+      <point x="79" y="-141" />
+      <point type="curve" x="12" y="-176" />
+      <point type="line" x="26" y="-214" />
+      <point name="hintSet0008" x="121" y="-181" />
+      <point x="225" y="-88" />
+      <point type="curve" x="225" y="41" />
+      <point x="225" y="68" />
+      <point x="222" y="90" />
+      <point type="curve" x="212" y="117" />
+      <point x="188" y="139" />
+      <point x="167" y="146" />
+      <point type="curve" x="144" y="146" />
+      <point x="98" y="146" />
+      <point x="69" y="113" />
+      <point type="curve" x="69" y="71" />
+      <point x="69" y="44" />
+      <point x="82" y="15" />
+      <point type="curve" x="116" y="-6" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="4acb07990f33d5d4f4d70d8a32d7f297c5fc3c26e6597dd09ec01d02643f730f8d9ed8c05d59284d50814a9c155e668ad4d121dd8a21a02968b04b4bc8d68d51">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="342" width="161" />
+            <vstem pos="70" width="160" />
+          </hintset>
+          <hintset pointTag="hintSet0008">
+            <hstem pos="342" width="161" />
+            <vstem pos="69" width="156" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="yacute">
+  <advance width="520" />
+  <unicode hex="00FD" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="353" y="640" />
+      <point x="404" y="678" />
+      <point x="418" y="699" />
+      <point type="curve" x="418" y="720" />
+      <point x="418" y="751" />
+      <point x="395" y="767" />
+      <point type="curve" x="372" y="767" />
+      <point x="347" y="767" />
+      <point x="328" y="753" />
+      <point type="curve" x="294" y="696" />
+      <point type="line" x="222" y="580" />
+      <point type="line" x="254" y="555" />
+    </contour>
+    <contour>
+      <point type="line" x="511" y="478" />
+      <point type="line" x="321" y="478" />
+      <point type="line" x="321" y="435" />
+      <point type="line" x="397" y="423" />
+      <point type="line" x="293" y="122" />
+      <point type="line" x="183" y="422" />
+      <point type="line" x="258" y="435" />
+      <point type="line" x="258" y="478" />
+      <point type="line" x="-4" y="478" />
+      <point type="line" x="-4" y="435" />
+      <point type="line" x="51" y="425" />
+      <point type="line" x="240" y="-33" />
+      <point type="line" x="236" y="-43" />
+      <point x="219" y="-92" />
+      <point x="193" y="-136" />
+      <point type="curve" x="157" y="-168" />
+      <point type="line" x="148" y="-160" />
+      <point x="117" y="-130" />
+      <point x="97" y="-123" />
+      <point type="curve" x="69" y="-123" />
+      <point x="40" y="-123" />
+      <point x="12" y="-138" />
+      <point type="curve" x="2" y="-168" />
+      <point x="2" y="-211" />
+      <point x="46" y="-240" />
+      <point type="curve" x="96" y="-240" />
+      <point x="184" y="-240" />
+      <point x="234" y="-172" />
+      <point type="curve" x="291" y="-18" />
+      <point type="line" x="455" y="424" />
+      <point type="line" x="511" y="435" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="a51a013088b6b4ea511b5891ec0b272b2b16a1dc22946a57685ce4a0e97de55a959fd67743b7bf15bc9703a10c052d98288ac8fe0589506d124fc8c2a6385dd3">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-240" width="117" />
+            <hstem pos="435" width="43" />
+            <vstem pos="321" width="190" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

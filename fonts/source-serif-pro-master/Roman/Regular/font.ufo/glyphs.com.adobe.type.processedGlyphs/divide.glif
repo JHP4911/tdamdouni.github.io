@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="divide">
+  <advance width="531" />
+  <unicode hex="00F7" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="265" y="68" />
+      <point x="303" y="68" />
+      <point x="334" y="95" />
+      <point type="curve" x="334" y="134" />
+      <point x="334" y="174" />
+      <point x="303" y="200" />
+      <point type="curve" x="265" y="200" />
+      <point x="228" y="200" />
+      <point x="197" y="174" />
+      <point type="curve" x="197" y="134" />
+      <point x="197" y="95" />
+      <point x="228" y="68" />
+    </contour>
+    <contour>
+      <point type="curve" x="265" y="459" />
+      <point x="303" y="459" />
+      <point x="334" y="486" />
+      <point type="curve" x="334" y="525" />
+      <point x="334" y="565" />
+      <point x="303" y="591" />
+      <point type="curve" x="265" y="591" />
+      <point x="228" y="591" />
+      <point x="197" y="565" />
+      <point type="curve" x="197" y="525" />
+      <point x="197" y="486" />
+      <point x="228" y="459" />
+    </contour>
+    <contour>
+      <point type="line" x="502" y="301" />
+      <point type="line" x="502" y="358" />
+      <point type="line" x="29" y="358" />
+      <point type="line" x="29" y="301" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="88f06d4ddb5f5c32b9304fb07bef43b89f2ec7aa3e0224a621b05db4d07f65c39ce913adda3a1edd8722439d290c6d60c57476564c94f5c08032de88dd979c92">
+          <hintset pointTag="hintSet0000">
+            <vstem pos="197" width="137" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

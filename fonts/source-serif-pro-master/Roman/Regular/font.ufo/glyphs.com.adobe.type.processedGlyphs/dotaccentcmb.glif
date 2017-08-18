@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dotaccentcmb">
+  <advance width="0" />
+  <unicode hex="0307" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="0" y="598" />
+      <point x="38" y="598" />
+      <point x="67" y="625" />
+      <point type="curve" x="67" y="662" />
+      <point x="67" y="700" />
+      <point x="38" y="726" />
+      <point type="curve" x="0" y="726" />
+      <point x="-38" y="726" />
+      <point x="-67" y="700" />
+      <point type="curve" x="-67" y="662" />
+      <point x="-67" y="625" />
+      <point x="-38" y="598" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="00598c38598o67625o67662c67700o38726o0726c-38726o-67700o-67662c-67625o-38598o">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="598" width="128" />
+            <vstem pos="-67" width="134" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

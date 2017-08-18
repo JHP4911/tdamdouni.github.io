@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="acute">
+  <advance width="400" />
+  <unicode hex="00B4" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="130" y="576" />
+      <point type="line" x="156" y="557" />
+      <point type="line" x="275" y="664" />
+      <point x="305" y="690" />
+      <point x="311" y="706" />
+      <point type="curve" x="311" y="720" />
+      <point x="311" y="746" />
+      <point x="292" y="758" />
+      <point type="curve" x="273" y="758" />
+      <point x="255" y="758" />
+      <point x="238" y="748" />
+      <point type="curve" x="217" y="715" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="400130576l156557l275664l305690o311706o311720c311746o292758o273758c255758o238748o217715c">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="557" width="201" />
+            <vstem pos="130" width="181" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>
